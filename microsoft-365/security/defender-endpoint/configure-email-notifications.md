@@ -57,7 +57,7 @@ You can create rules that determine the devices and alert severities to send ema
     - **Include device information** - Includes the device name in the email alert body.
     
         >[!NOTE]
-        > This information might be processed by recipient mail servers that ar not in the geographic location you have selected for your Defender for Endpoint data.
+        > This information might be processed by recipient mail servers that are not in the geographic location you have selected for your Defender for Endpoint data.
 
     - **Devices** - Choose whether to notify recipients for alerts on all devices (Global administrator role only) or on selected device groups. For more information, see [Create and manage device groups](machine-groups.md).
     - **Alert severity** - Choose the alert severity level.
